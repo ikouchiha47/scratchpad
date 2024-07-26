@@ -20,7 +20,5 @@ given enough context.
 
 ## Screenshots
 
-<div style="display:flex; gap: 2rem;">
-    ![shot1](./images/Scratchpad2.png)
-    ![shot2](./images/ScratchpadS2.png)
-</div>
+![shot1](./images/Scratchpad2.png)
+![shot2](./images/ScratchpadS2.png)
