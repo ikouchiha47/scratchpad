@@ -22,3 +22,18 @@ given enough context.
 
 ![shot1](./images/Scratchpad2.png)
 ![shot2](./images/ScratchpadS2.png)
+
+_since this, the device names are made unique instead of socket ids_
+
+### Working
+
+Once you launch the UI, you are suppossed to enter a set password.
+You can set a default password, or you can generate one. (This is a manual process now).
+
+Every device trying to join the scratchpad has to go through the authentication layer.
+Now you can:
+
+- add text
+- click and hold to copy
+- zoom in and out of the canvas
+
